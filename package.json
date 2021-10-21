@@ -1,0 +1,30 @@
+{
+  "name": "mern-code-generator",
+  "version": "1.0.0",
+  "description": "This script will help to generate different starter kits for web applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hafizadil123"
+  },
+  "keywords": [
+    "mern",
+    "mean",
+    "node",
+    "react",
+    "postgress",
+    "mysql",
+    "mongodb"
+  ],
+  "bin": {
+    "generate": "./index.js"
+ },
+  "author": "Adil Sikandar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}

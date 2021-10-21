@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "",
+      "database": "express-way-dev",
+      "host": "localhost",
+      "dialect": "mysql",
+      "operatorsAliases": 0
+    },
+    "test": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "",
+      "dialect": "mysql",
+      "operatorsAliases": 0
+    },
+    "production": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "",
+      "dialect": "mysql",
+      "operatorsAliases": 0
+    }
+  }
+  
